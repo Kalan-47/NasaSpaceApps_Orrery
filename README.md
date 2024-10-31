@@ -37,9 +37,10 @@ The **Orrery Web App** allows users to explore our solar system and the objects 
 ## 🔭 Data Sources
 
 This project integrates real-time data from the following sources:
-- [NASA's Near Earth Object Web Service (NeoWs)](https://api.nasa.gov/)
-- [European Space Agency (ESA)](https://www.esa.int/)
-- [Minor Planet Center (MPC)](https://www.minorplanetcenter.net/)
+- [Approximate Positions of the Planets]([https://api.nasa.gov/](https://ssd.jpl.nasa.gov/planets/approx_pos.html))
+- [Small-Body Database Query]([https://www.esa.int/](https://ssd.jpl.nasa.gov/tools/sbdb_query.html))
+- [Ontology-driven Orrery]([https://www.minorplanetcenter.net/](https://nasa.github.io/mission-viz/OntologyDrivenOrrery/An_Orrery_in_ThreeJS.html))
+- [Eyes on Asteroids - Home - NASA/JPL](https://eyes.nasa.gov/apps/asteroids/#/home)
 
 We fetch and visualize data such as:
 - Orbital elements
